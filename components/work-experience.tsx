@@ -55,10 +55,10 @@ export function WorkExperience() {
   ]
 
   return (
-    <section id="work-experience" className="py-16 px-4 sm:px-6 lg:px-8 max-w-6xl mx-aut">
+    <section id="work-experience" className="py-16 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto">
       <div className="mb-16">
-        <h2 className="text-3xl font-bold text-foreground mb-12">Work Experience</h2>
-        <div className="space-y-8 slide-in-stagger">
+        <h2 className="text-3xl font-bold text-foreground mb-16">Work Experience</h2>
+        <div className="grid gap-6 md:gap-8 slide-in-stagger">
           {experiences.map((exp, idx) => (
             <div
               key={idx}

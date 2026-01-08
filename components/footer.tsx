@@ -9,7 +9,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="text-center md:text-left">
             <Link href="/" className="text-2xl font-bold text-primary-medium">
-              foma
+              Devfoma
             </Link>
             <p className="text-foreground/60 mt-2">Building digital experiences with code and creativity</p>
           </div>
