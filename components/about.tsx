@@ -13,7 +13,7 @@ export function About() {
             </div>
             <h2 className="text-4xl font-bold text-foreground">About Me</h2>
             <p className="text-lg text-foreground/70 leading-relaxed">
-              Hey 👋, I'm Foma! <br /> <br /> A fullstack blockchain developer building on the decentralized ecosystem (web 3) and
+              Foma is also fullstack blockchain developer building on the decentralized ecosystem (web 3) and
               traditional systems (web 2). <br /> <br /> I'm passionate about solving problems and building things through code.
               Programming isn't just my profession, it's my passion.
             </p>

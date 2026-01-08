@@ -37,7 +37,7 @@ export function Education() {
               <img
                 src={edu.logo || "/placeholder.svg"}
                 alt={edu.school}
-                className="w-16 h-16 rounded-lg object-cover flex-shrink-0 bg-accent/10"
+                className="w-16 h-16 rounded-lg object-cover shrink-0 bg-accent/10"
               />
             )}
             <div className={edu.logo ? "flex-1 border-l-2 border-accent pl-6 py-2" : "flex-1 py-2"}>
